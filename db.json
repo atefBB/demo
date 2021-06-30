@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "data": [
+   { "group": "group 1" },
+    { "group": "group 2" },
+    {  "group": "group 3" }
+  ]
 }
